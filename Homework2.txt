@@ -1,0 +1,19 @@
+1. 24 (5X5 - 1) tane düğme
+yaratarak bunları çalışma alanını kaplar hale getiriniz. Düğmeler kare
+biçiminde olmalı ve üzerlerinde 1, 2, 3, … biçiminde sayılar bulunmalıdır.
+(Dolayısıyla çalışma alanı da kare biçiminde olmalı ve
+boyutlandırılamamalıdır). Bu düğmelerin ortasında bir düğmelik boş bir alan vardır.
+Düğmenin üzerine tıklandığında eğer o düğme uygun bir pozisyondaysa (yani boş
+alanın dört komşusundan biriyse) tıklanan düğmenin o boş bölgeye
+taşınabilmesini sağlayınız. Başlangıçta düğmeler rastgele bir biçimde
+dizilmişlerdir. Oyunun amacı onları 1-24 arasında düzenli olarak dizip boşluğun
+en altta sağda kalmasını sağlamaktır.
+
+
+ 
+
+
+2. Birinci sorudaki programı
+değiştirerek pencereyi boyutlandırılabilir hale getiriniz. Pencere
+boyutlandırıldığında düğmelerin de yeniden ayarlanması gerekmektedir. Artık
+çalışma alanı ve dolayısıyla düğmeler kare biçiminde olmak zorunda değildir
